@@ -27,13 +27,13 @@ ___
 ### Home
 ![Home](./previews/loggedin.png)
 ### Add a Note
-![Adding](./previews/adding.jpg)
-![Added](./previews/added.jpg)
+![Adding](./previews/adding.png)
+![Added](./previews/added.png)
 ### Edit Note
 ![Editing](./previews/updating.png)
-![Edited](./previews/updated.jpg)
+![Edited](./previews/updated.png)
 ### Delete Note
-![Delete](./previews/delete.jpg)
+![Delete](./previews/delete.png)
 ___
 ## **Download Links** : 
 You can access my project from your local machine !
