@@ -74,9 +74,9 @@ const Notes = (props) => {
             </div>
 
             <div className="row my-3">
-                <h2>You Notes</h2>
+                <h2 className='my-5 d-flex justify-content-center'>Your Notes</h2>
                 <div className="container mx-2">
-                    {notes.length === 0 && 'No notes to display'}
+                    {notes.length === 0 && <p className='text-muted' > Your Notes will display here...</p>}
                 </div>
                 {notes.map((note) => {
                     return <Noteitem key={note._id} updateNote={updateNote} showAlert={props.showAlert} note={note} />

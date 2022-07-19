@@ -19,7 +19,7 @@ const AddNote = (props) => {
     }
     return (
         <div className="container my-3">
-            <h2>Add a Note</h2>
+            <h1 className='my-5 d-flex justify-content-center'>Add a Note</h1>
             <form className="my-3">
                 <div className="mb-3">
                     <label htmlFor="title" className="form-label">Title</label>
@@ -34,7 +34,7 @@ const AddNote = (props) => {
                     <input type="text" className="form-control" id="tag" name="tag" value={note.tag} onChange={onChange} minLength={5} required />
                 </div>
                
-                <button disabled={note.title.length<5 || note.description.length<5} type="submit" className="btn btn-primary" onClick={handleClick}>Add Note</button>
+                <button disabled={note.title.length<5 || note.description.length<5} type="submit" className="btn btn-secondary" onClick={handleClick}>Add Note</button>
             </form>
         </div>
     )
