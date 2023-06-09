@@ -19,7 +19,7 @@ ___
 ___
 ## **Previews** : 
 ### Sign Up
-![Signup](./previews/signup.png)
+![Signup](previews/signup.png)
 ### Fill Details
 ![Signup](./previews/signup-details.png)
 ### Login
