@@ -19,21 +19,21 @@ ___
 ___
 ## **Previews** : 
 ### Sign Up
-![Signup](./previews/signup.png)
+![Signup](https://drive.google.com/uc?export=view&id=1Mx4B8pQXjUNIEvK9Ndww1migsXvDqe1t)
 ### Fill Details
-![Signup](./previews/signup-details.png)
+![Signup](https://drive.google.com/uc?export=view&id=1M_qDoCTcW_I3CVVdIpzr_l7oHYnUUg_B)
 ### Login
-![Login](./previews/login.png)
+![Login](https://drive.google.com/uc?export=view&id=1Mon2-6FwpCAaw-w4JjSP5vHZgoVf1vKG)
 ### Home
-![Home](./previews/loggedin.png)
+![Home](https://drive.google.com/uc?export=view&id=1OuS-mfrOJQIUelgzltMq8yYjUCYhubKm)
 ### Add a Note
-![Adding](./previews/adding.png)
-![Added](./previews/added.png)
+![Adding](https://drive.google.com/uc?export=view&id=1Me1RmYoiWrMb3wrYOAqN2D2eQrcHkObG)
+![Added](https://drive.google.com/uc?export=view&id=1MbiQoVR3ohXWBjzad8z684mApeKGbb1Y)
 ### Edit Note
-![Editing](./previews/updating.png)
-![Edited](./previews/updated.png)
+![Editing](https://drive.google.com/uc?export=view&id=1MggyUdgBtjFMUva6XMnI_Uf1l8wISKPd)
+![Edited](https://drive.google.com/uc?export=view&id=1M_bn3jWuuykr2DqyASG_pniAqqMIQTmQ)
 ### Delete Note
-![Delete](./previews/delete.png)
+![Delete](https://drive.google.com/uc?export=view&id=1N1nNM4DJSf7mHSqB7aj8HlC4kA236QTE)
 ___
 ## **Download Links** : 
 You can access my project from your local machine !
